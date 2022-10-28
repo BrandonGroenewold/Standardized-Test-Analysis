@@ -1,12 +1,10 @@
 # School and Standardized test analysis
-I create and manipulate Pandas DataFrames to analyze school and standardized test data.
+I created and manipulated Pandas DataFrames to analyze school and standardized test data.
 
-##Skills/Languages Used
-* I used...
+## Skills/Languages Used
+* Python, Jupyter notebook, Pandas, Groupby Function
 
 ## Background
-
-Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. My latest role as Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 As a first task, I've been asked to analyze the district-wide standardized test results. I have been given access to every student's math and reading scores, as well as various information on the schools they attend. My task is to aggregate the data to showcase obvious trends in school performance.
 
